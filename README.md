@@ -1,2 +1,3 @@
 # python-learning
-Exploring python from scratch.
+DAY 1 :
+Learned about variables, comments, data types and math operators. 
