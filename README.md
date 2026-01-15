@@ -7,3 +7,5 @@ DAY 3:
 Learned about what is type casting, relational operators and if-condition-statement. 
 DAY 4:
 Built a simple calculator using if-statements. 
+DAY 5:
+Learned about logicical operators.
