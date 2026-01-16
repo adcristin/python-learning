@@ -9,3 +9,5 @@ DAY 4:
 Built a simple calculator using if-statements. 
 DAY 5:
 Learned about logicical operators.
+DAY 6:
+Learned about loops, while and for loop.
