@@ -11,3 +11,5 @@ DAY 5:
 Learned about logicical operators.
 DAY 6:
 Learned about loops, while and for loop.
+DAY 7:
+Build a Even Odd checker and Number guesser program.

@@ -1,4 +1,4 @@
-#We'll make a simple calculator with the use of if-condtion statement. 
+#Building a simple calculator with the use of if-condtion statement. 
 
 print("-------------------------CALCULATOR---------------------------")
 
