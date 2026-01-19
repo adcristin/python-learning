@@ -15,3 +15,5 @@ DAY 7:
 Built an Even Odd checker and Number guesser program.
 DAY 8:
 Learned about Lists and more. Built a simple Access Control System. 
+DAY 9:
+Learned about Tuple, Dicitionaries and Sets. 
