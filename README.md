@@ -17,3 +17,5 @@ DAY 8:
 Learned about Lists and more. Built a simple Access Control System. 
 DAY 9:
 Learned about Tuple, Dicitionaries and Sets. 
+DAY 10:
+Practice: Swapped two numbers without using a third variable.
