@@ -19,3 +19,5 @@ DAY 9:
 Learned about Tuple, Dicitionaries and Sets. 
 DAY 10:
 Practice: Swapped two numbers without using a third variable.
+DAY 11:
+Learned about operations on sets and Nested Types.
