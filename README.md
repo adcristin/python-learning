@@ -21,3 +21,5 @@ DAY 10:
 Practice: Swapped two numbers without using a third variable.
 DAY 11:
 Learned about operations on sets and Nested Types.
+DAY 12:
+Learned about Nested Dictionaries and fetched data through loops. 
