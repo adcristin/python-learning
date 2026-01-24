@@ -25,3 +25,5 @@ DAY 12:
 Learned about Nested Dictionaries and fetched data through loops. 
 DAY 13:
 Performed some basic operations on dictionaries, through user's choice. 
+DAY 14:
+Learned about List Comprehension and Generator Expression. 
