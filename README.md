@@ -29,3 +29,5 @@ DAY 14:
 Learned about List Comprehension and Generator Expression. 
 DAY 15:
 Learned about Dictionary Comprehension and Set Comprehension. Built a Password Strength Checker mini_project. 
+DAY 16:
+Learned about Functions, henceforth completed my Fundamentals. Built a Grade Calculator mini_project. 
