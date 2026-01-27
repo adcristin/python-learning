@@ -31,3 +31,5 @@ DAY 15:
 Learned about Dictionary Comprehension and Set Comprehension. Built a Password Strength Checker mini_project. 
 DAY 16:
 Learned about Functions, henceforth completed my Fundamentals. Built a Grade Calculator mini_project. 
+DAY 17:
+Practice: Found factorial of a number using for-loop. 
