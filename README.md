@@ -33,3 +33,5 @@ DAY 16:
 Learned about Functions, henceforth completed my Fundamentals. Built a Grade Calculator mini_project. 
 DAY 17:
 Practice: Found factorial of a number using for-loop. 
+DAY 18:
+Practice: Calculated Simple Interest and Found the sum of first 'n' natural numbers.
