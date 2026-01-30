@@ -35,3 +35,7 @@ DAY 17:
 Practice: Found factorial of a number using for-loop. 
 DAY 18:
 Practice: Calculated Simple Interest and Found the sum of first 'n' natural numbers.
+DAY 19:
+Learned about Arrays and Stack. 
+DAY 20:
+Learned about Queues. 
