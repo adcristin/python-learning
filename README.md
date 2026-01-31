@@ -39,3 +39,5 @@ DAY 19:
 Learned about Arrays and Stack. 
 DAY 20:
 Learned about Queues. 
+DAY 21:
+Learned about Singly Linked Lists Traversing.
