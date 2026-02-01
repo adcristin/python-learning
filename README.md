@@ -41,3 +41,5 @@ DAY 20:
 Learned about Queues. 
 DAY 21:
 Learned about Singly Linked Lists Traversing.
+DAY 22:
+Learned about Linear Search and Binary Search. 
