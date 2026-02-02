@@ -43,3 +43,6 @@ DAY 21:
 Learned about Singly Linked Lists Traversing.
 DAY 22:
 Learned about Linear Search and Binary Search. 
+DAY 23:
+Learned about Bubble Sort. 
+
