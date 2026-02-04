@@ -44,5 +44,9 @@ Learned about Singly Linked Lists Traversing.
 DAY 22:
 Learned about Linear Search and Binary Search. 
 DAY 23:
-Learned about Bubble Sort, Quick Sort and Merge Sort
+Learned about Bubble Sort, Quick Sort and Merge Sort.
+DAY 24:
+Practice: Reversing a string. 
+DAY 25:
+Practice: Checked whether a number is palindrome/armstrong or not 
 
