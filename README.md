@@ -48,5 +48,7 @@ Learned about Bubble Sort, Quick Sort and Merge Sort.
 DAY 24:
 Practice: Reversing a string. 
 DAY 25:
-Practice: Checked whether a number is palindrome/armstrong or not 
+Practice: Checked whether a number is palindrome/armstrong or not.
+DAY 26:
+Learned about Binary Tree, BFS, DFS:pre-order, in-order & post-order traversal.
 
