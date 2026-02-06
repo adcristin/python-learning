@@ -51,4 +51,6 @@ DAY 25:
 Practice: Checked whether a number is palindrome/armstrong or not.
 DAY 26:
 Learned about Binary Tree, BFS, DFS:pre-order, in-order & post-order traversal.
+DAY 27:
+Practice: Checked whether a triangle is a right-angled triangle or not. 
 
