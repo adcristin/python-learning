@@ -1,5 +1,5 @@
 '''
-Generate a expression:
+Generate this pattern:
 
 1
 22
