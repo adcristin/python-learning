@@ -55,4 +55,7 @@ DAY 27:
 Practice: Checked whether a triangle is a right-angled triangle or not. 
 DAY 28:
 Practice: Generated a expression.
-
+DAY 29:
+Learned about Graphs. 
+DAY 30:
+Practice: Checking whether a number is +ve/-ve/0
