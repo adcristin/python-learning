@@ -58,4 +58,6 @@ Practice: Generated a expression.
 DAY 29:
 Learned about Graphs. 
 DAY 30:
-Practice: Checking whether a number is +ve/-ve/0
+Practice: Checking whether a number is +ve/-ve/0.
+DAY 31:
+Revisiting earlier codes and its concepts. 
