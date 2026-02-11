@@ -61,3 +61,5 @@ DAY 30:
 Practice: Checking whether a number is +ve/-ve/0.
 DAY 31:
 Revisiting earlier codes and its concepts. 
+DAY 32:
+Built a Contact Book using dictionary and functions. 
