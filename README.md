@@ -65,3 +65,5 @@ DAY 32:
 Built a Contact Book using dictionary and functions. 
 DAY 33:
 Practice: Generated a fibonacci series using recursion. 
+DAY 34:
+Learned about Hashing - tables, functions & collisions.
